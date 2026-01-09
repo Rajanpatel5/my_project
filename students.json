@@ -1,6 +1,6 @@
 [
     {
-        "name": "ram",
+        "name": "rohit",
         "roll": "1",
         "marks": "80"
     },
@@ -8,5 +8,15 @@
         "name": "rajan",
         "roll": "4",
         "marks": "30"
+    },
+    {
+        "name": "lalu ",
+        "roll": "54",
+        "marks": "78"
+    },
+    {
+        "name": "deep tiwari",
+        "roll": "14",
+        "marks": "600"
     }
 ]
